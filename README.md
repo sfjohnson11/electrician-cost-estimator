@@ -1,1 +1,1 @@
-# electrician-cost-estimator
+# electrician-cost-calculator
